@@ -16,6 +16,7 @@
   - Go to Directory [simple-user-profile] at this case
   - Running script with "Go Mod Vendor" to include package manager
   - Create Database Mysql called "simple_user_profile"
+  - Please modify file config.json (in database attribute) if different
   - Running App with gomon app.go or you may use go run app.go
  
 ### Postman (this app used postman / not browser)
