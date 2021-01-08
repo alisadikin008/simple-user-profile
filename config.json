@@ -1,0 +1,19 @@
+{
+    "database":{
+        "driver":"mysql",
+        "name":"simple_user_profile",
+        "user":"root",
+        "password":"root"
+    },
+    "tcp":{
+        "host":"127.0.0.1",
+        "port":"3306"
+    },
+    "mode":{
+        "name":"production"
+    },
+    "auth":{
+        "key":"LM2021XYZ",
+        "token":"853D6Ca929939037112080a3aBb24155b74B731F"
+    }
+}
